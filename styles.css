@@ -5,13 +5,13 @@ body {
  flex-wrap: wrap;
 }
 h1 {
- color: pink;
+ color: red;
  text-align: center;
  width: 100%;
  display: block;
 }
 h1:hover {
- color: pink;
+ color: red;
  text-align: center;
  width: 100%;
  display: block;
